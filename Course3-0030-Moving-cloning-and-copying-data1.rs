@@ -1,6 +1,6 @@
 fn main() {
 
-  // hep data!
+  // heap data!
 
   let greeting = String::from("Hi there!");
 
